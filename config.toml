@@ -1,0 +1,7 @@
+[config]
+host='localhost'
+port=9091
+param_name='value'  
+
+[kokadurvis]
+GPIO_pin=154
